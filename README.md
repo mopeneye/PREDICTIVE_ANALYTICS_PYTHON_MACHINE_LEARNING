@@ -3,5 +3,6 @@ Python ile ikinci el otomobillerin fiyatlarının  makine öğrenmesi modelleri 
 
 data frame'e import işleminde kullanılan path, veri dosyasının bilgisayarınızdaki lokasyonu ile güncellenmelidir.
 
-Veri dosyası aşağıdaki link kullanılarak indirilebilir:
+Veri dosyası aşağıdaki link kullanılarak inhttps://drive.google.com/open?id=163fgXU1ZWhc5_dbBxyVBTumLUcteCoHwdirilebilir:
+https://drive.google.com/open?id=163fgXU1ZWhc5_dbBxyVBTumLUcteCoHw
 
